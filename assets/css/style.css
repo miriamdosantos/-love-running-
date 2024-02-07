@@ -180,6 +180,15 @@ hr{
     /*Override the heading colour set in general styles*/
     color:#fafafa;
 }
+/* Gallery page */
+#photos img{
+    width:100%;
+    line-height: 1;
+}
+
+#photos{
+    line-height: 0;
+}
 /* Footer */
 #social-networks{
    text-align: center; 
